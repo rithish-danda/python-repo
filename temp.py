@@ -9,5 +9,5 @@ print("Superhero name is "+super_hero)
 
 """
   Trying out a multi line comment 
-  using string as python ignores strings if not used in syntax
+  using string as python ignores strings if not used in syntax :)
 """
